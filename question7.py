@@ -1,0 +1,8 @@
+marks = int(input("Enter your marks: "))
+
+if marks >= 80:
+    print("A")
+elif marks >= 60:
+    print("B")
+else:
+    print("C")
